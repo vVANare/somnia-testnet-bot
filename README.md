@@ -25,7 +25,7 @@ A JavaScript-based automation tool for interacting with the Somnia testnet netwo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/somnia-testnet.git
+git clone https://github.com/vVANare/somnia-testnet-bot.git
 cd somnia-testnet
 ```
 
@@ -49,7 +49,7 @@ Edit `data/config.js` to customize:
 
 Run the application:
 ```bash
-npm run dev
+npm start
 ```
 
 Available commands:
@@ -62,13 +62,6 @@ Available commands:
 7. Send $STT to random address
 8. Deploy ERC-20 smart-contract
 9. Deploy ERC-721 smart-contract
-
-## Development
-
-- Run in development mode:
-```bash
-npm run dev
-```
 
 ## License
 
