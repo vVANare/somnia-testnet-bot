@@ -1,0 +1,26 @@
+{
+  "name": "somnia-testnet",
+  "version": "1.0.0",
+  "description": "Somnia testnet automation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^7.3.3",
+    "axios": "^1.6.7",
+    "chalk": "^4.1.2",
+    "ethers": "^6.11.1",
+    "exceljs": "^4.4.0",
+    "https-proxy-agent": "^7.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "rimraf": "^5.0.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
