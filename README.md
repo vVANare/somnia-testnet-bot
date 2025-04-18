@@ -26,7 +26,7 @@ A JavaScript-based automation tool for interacting with the Somnia testnet netwo
 1. Clone the repository:
 ```bash
 git clone https://github.com/vVANare/somnia-testnet-bot.git
-cd somnia-testnet
+cd somnia-testnet-bot
 ```
 
 2. Install dependencies:
